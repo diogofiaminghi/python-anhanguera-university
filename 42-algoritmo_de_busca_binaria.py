@@ -19,3 +19,9 @@ print(lista)
 
 print('\n',executar_busca_binaria(lista=lista, valor=10))
 print('\n', executar_busca_binaria(lista=lista, valor=200))
+
+#1-Encontra o item no meio da sequência.
+#2-Se o valor procurado for igual ao item do meio, a busca encerra.
+#3-Se não, verifica se o valor buscado é maior ou menor que o valor central.
+#4-Se for maior, então a busca acontecerá na metade superior da sequência (a inferior é descartada), se não for maior, a busca acontecerá na metade inferior da sequência (a superior é descartada).
+#4-Repete os passos: 1, 2, 3, 4.
