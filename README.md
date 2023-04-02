@@ -1,29 +1,32 @@
 # python-anhanguera-university
-Python codes 
-
-# python-anhanguera-university
 
 <h1 align="center">
    <a href="#"> Python Anhanguera University </a>
 </h1>
 
 <h2 align="center">
-    5 min 16 sec for provisioning on AWS after 'terraform apply' command
+    Programming Language Course
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diogofiaminghi/terraform-application-auto-scaling?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diogofiaminghi/
+python-anhanguera-university?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diogofiaminghi/terraform-application-auto-scaling">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diogofiaminghi/
+python-anhanguera-university">
 
-   <a href="https://github.com/diogofiaminghi/terraform-application-auto-scaling/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diogofiaminghi/terraform-application-auto-scaling">
+   <a href="https://github.com/diogofiaminghi/
+python-anhanguera-university/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/diogofiaminghi/
+python-anhanguera-university">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 	
-   <a href="https://github.com/diogofiaminghi/terraform-application-auto-scaling/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/diogofiaminghi/terraform-application-auto-scaling?style=social">
+   <a href="https://github.com/diogofiaminghi/
+python-anhanguera-university/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/diogofiaminghi/
+python-anhanguera-university?style=social">
   </a>
 </p>
 
